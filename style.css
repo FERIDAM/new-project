@@ -1,0 +1,16 @@
+h2{
+            font-size: 30px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-weight: 600;
+            border: 5px green solid;
+        }
+        #heading2{
+            border: 10px red dashed;
+            margin: 50px;
+            padding: 50px;
+        }
+        .heading3{
+            border: 15px blue solid;
+            margin: 50px;
+            padding: 50px;
+        }
